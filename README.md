@@ -10,7 +10,7 @@ This repository is for public materials associated with Verasight report `variet
 
 ## Relationship To Verasight Resources
 
-The Verasight report page is the source for this wave. The Data Library presents selected findings in a browsable format. This repository provides a GitHub home for structured public materials associated with the same report.
+The Verasight report page is the source for this report. The Data Library presents selected findings in a browsable format. This repository provides a GitHub home for structured public materials associated with the same report.
 
 ## Contents
 
